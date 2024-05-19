@@ -1,5 +1,5 @@
 # Profile
-<h1 align="left">Hey! My name is Manish Kumar and I'm a SoftWare Developer, from India</h1>
+<h1 align="left">Hey! My name is Manish Kumar and I'm a Software Developer, from India</h1>
 <h2 align="left"> Node.js Developer 🧭 Over 6 Months of Experience in... HTML5 | CSS3 | JAVASCRIPT | TYPESCRIPT | EXPRESS JS | MONGO DB </h2>
 
 <div align="center">
@@ -36,13 +36,13 @@
 </div>
 
 <div align="left">
-  <img src="https://media.licdn.com/dms/image/D4D12AQHyKzTiFpy0Ug/article-cover_image-shrink_720_1280/0/1691621311432?e=2147483647&v=beta&t=ECjOZOJ4EJaUY4FBlXRmxE2MHtIj1W9b7DhBlKuaaDM" height="100" alt=logo" />
-  <img src="https://img-c.udemycdn.com/course/750x422/5564026_f5a4_3.jpg" height="100" alt= logo" />
+  <img src="https://media.licdn.com/dms/image/D4D12AQHyKzTiFpy0Ug/article-cover_image-shrink_720_1280/0/1691621311432?e=2147483647&v=beta&t=ECjOZOJ4EJaUY4FBlXRmxE2MHtIj1W9b7DhBlKuaaDM" height="100" alt="logo" />
+  <img src="https://img-c.udemycdn.com/course/750x422/5564026_f5a4_3.jpg" height="100" alt= "logo" />
   <img src="https://s3-eu-west-1.amazonaws.com/blog.forestadmin.com/2021/09/FA-article-nodeJS@2x-1-.png" height="100" alt="logo" />
   <img src="https://cms.liara.ir/wp-content/uploads/2020/09/express-framework-tutorials.png" height="100" alt="logo" />
   <img src="https://img.helpnetsecurity.com/wp-content/uploads/2023/12/18103148/mongodb-1400.jpg" height="100" alt="logo" />
   <img src="https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2018_03_MySQLdolphin_twitter.jpg" height="100" alt= "logo" />
   <img src="https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_64feb5cad0f3feb3468e13e9_best_resources_to_learn_React_Main_Image_2c7daa739e.jpg" height="100" alt="logo" />
-  <img src="https://img-b.udemycdn.com/course/750x422/5634404_ec85.jpg" height="100" alt= logo" />
-  <img src="https://media.licdn.com/dms/image/D5612AQEz9KSuvhncQA/article-cover_image-shrink_600_2000/0/1704352101828?e=2147483647&v=beta&t=Onhgd9lTPevT_7LU_66JBrVXSDKcNPi6sfBo4fPt6SE" height="100" alt= logo" />
+  <img src="https://img-b.udemycdn.com/course/750x422/5634404_ec85.jpg" height="100" alt= "logo" />
+  <img src="https://media.licdn.com/dms/image/D5612AQEz9KSuvhncQA/article-cover_image-shrink_600_2000/0/1704352101828?e=2147483647&v=beta&t=Onhgd9lTPevT_7LU_66JBrVXSDKcNPi6sfBo4fPt6SE" height="100" alt= "logo" />
 </div>
