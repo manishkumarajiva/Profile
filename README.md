@@ -41,7 +41,7 @@
   <img src="https://s3-eu-west-1.amazonaws.com/blog.forestadmin.com/2021/09/FA-article-nodeJS@2x-1-.png" height="100" alt="logo" />
   <img src="https://cms.liara.ir/wp-content/uploads/2020/09/express-framework-tutorials.png" height="100" alt="logo" />
   <img src="https://img.helpnetsecurity.com/wp-content/uploads/2023/12/18103148/mongodb-1400.jpg" height="100" alt="logo" />
-  <img src="https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2018_03_MySQLdolphin_twitter.jpg" height="100" alt= logo" />
+  <img src="https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2018_03_MySQLdolphin_twitter.jpg" height="100" alt= "logo" />
   <img src="https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_64feb5cad0f3feb3468e13e9_best_resources_to_learn_React_Main_Image_2c7daa739e.jpg" height="100" alt="logo" />
   <img src="https://img-b.udemycdn.com/course/750x422/5634404_ec85.jpg" height="100" alt= logo" />
   <img src="https://media.licdn.com/dms/image/D5612AQEz9KSuvhncQA/article-cover_image-shrink_600_2000/0/1704352101828?e=2147483647&v=beta&t=Onhgd9lTPevT_7LU_66JBrVXSDKcNPi6sfBo4fPt6SE" height="100" alt= logo" />
