@@ -38,7 +38,7 @@
 <div align="left">
   <img src="https://media.licdn.com/dms/image/D4D12AQHyKzTiFpy0Ug/article-cover_image-shrink_720_1280/0/1691621311432?e=2147483647&v=beta&t=ECjOZOJ4EJaUY4FBlXRmxE2MHtIj1W9b7DhBlKuaaDM" height="100" alt="logo" />
   <img src="https://img-c.udemycdn.com/course/750x422/5564026_f5a4_3.jpg" height="100" alt= "logo" />
-  <img src="https://s3-eu-west-1.amazonaws.com/blog.forestadmin.com/2021/09/FA-article-nodeJS@2x-1-.png" height="100" alt="logo" />
+  <img src="https://media.licdn.com/dms/image/C5112AQHKn7lkiq1biQ/article-cover_image-shrink_720_1280/0/1547730409212?e=2147483647&v=beta&t=k0l1bpdroGvYmIO2VhLb--u2FHGMoz5G8oua72AHGSE" height="100" alt="logo" />
   <img src="https://cms.liara.ir/wp-content/uploads/2020/09/express-framework-tutorials.png" height="100" alt="logo" />
   <img src="https://img.helpnetsecurity.com/wp-content/uploads/2023/12/18103148/mongodb-1400.jpg" height="100" alt="logo" />
   <img src="https://wiki.matbao.net/wp-content/uploads/2019/09/mysql-la-gi-mysql-la-mot-he-quan-tri-co-so-du-lieu-quan-he-rat-pho-bien-hien-nay.png" height="100" alt= "logo" />
