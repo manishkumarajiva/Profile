@@ -45,5 +45,6 @@
   <img src="https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_64feb5cad0f3feb3468e13e9_best_resources_to_learn_React_Main_Image_2c7daa739e.jpg" height="100" alt="logo" />
   <img src="https://img-b.udemycdn.com/course/750x422/5634404_ec85.jpg" height="100" alt= "logo" />
   <img src="https://media.licdn.com/dms/image/D5612AQEz9KSuvhncQA/article-cover_image-shrink_600_2000/0/1704352101828?e=2147483647&v=beta&t=Onhgd9lTPevT_7LU_66JBrVXSDKcNPi6sfBo4fPt6SE" height="100" alt= "logo" />
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/291435166/original/da728a25128f53354aa31845c782a46f7cd75b9e/develop-website-with-django-python-full-stack-developer-93a9.png" height="100" alt= "logo" />
   <img src="https://media.licdn.com/dms/image/D4D12AQHrI71EYZpXjw/article-cover_image-shrink_600_2000/0/1685149709705?e=2147483647&v=beta&t=9X2olt_GONrdGTguvEpafnHl28KZG1jDw_6n3NgRkaw" height="100" alt= "logo" />
 </div>
