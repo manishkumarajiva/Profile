@@ -1,6 +1,7 @@
 # Profile
 <h1 align="left">Hey! My name is Manish Kumar and I'm a Software Developer, from India</h1>
 <h2 align="left"> Node.js Developer 🧭 Over 6 Months of Experience in... HTML5 | CSS3 | JAVASCRIPT | TYPESCRIPT | EXPRESS JS | MONGO DB </h2>
+<h3> 📚  LEARNING is a BIG PART of my professional life. I stay UPDATED with the LATEST TRENDS and best practices in BACKEND development to ENSURE that the SOLUTIONS I deliver are not just functional but also maintainable and FUTURE PROOF </h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
