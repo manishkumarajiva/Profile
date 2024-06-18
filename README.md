@@ -5,7 +5,7 @@
 <h3>
   <ol>
     <li> ∆... Whether it's building RESTful APIs. </li>
-    <li> ∆... Integrating third-party services. </li>
+    <li> ∆... Integrating third-party services </li>
     <li> ∆... Optimizing database performance  </li>
   </ol>
 </h3>
