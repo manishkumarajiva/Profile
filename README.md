@@ -9,7 +9,6 @@
     <li> ∆... Optimizing database performance  </li>
   </ol>
 </h3>
-
 <a href="https://manish-leo.blogspot.com/2024/06/about.html">  About  </a>
 
 <div align="center">
