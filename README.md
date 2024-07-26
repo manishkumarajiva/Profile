@@ -3,7 +3,7 @@
 <h2 align="left"> I am a Node.js developer with experience creating efficient server-side applications. I have successfully implemented Google OAuth 2.0 for user authentication using Passport.js middleware and used JWTs for secure API authorization. Additionally, I have developed methods for handling large video file uploads with chunked uploads and managed user sessions effectively. </h3>
 <h3>
   <ol>
-    <li> ∆... Whether it's building RESTful APIs. </li>
+    <li> ∆... Building RESTful APIs. </li>
     <li> ∆... Integrating third-party services </li>
     <li> ∆... Optimizing database performance  </li>
   </ol>
