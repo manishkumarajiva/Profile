@@ -1,6 +1,7 @@
 # Profile
 <h1 align="left">Hey! My name is Manish Kumar and I'm a Software Developer, from India</h1>
 <h2 align="left"> I am a Node.js developer with experience creating efficient server-side applications. I have successfully implemented Google OAuth 2.0 for user authentication using Passport.js middleware and used JWTs for secure API authorization. Additionally, I have developed methods for handling large video file uploads with chunked uploads and managed user sessions effectively. </h3>
+
 <h3>
   <ol>
     <li> ∆... Building RESTful APIs. </li>
