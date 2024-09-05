@@ -4,9 +4,9 @@
 
 <h3>
   <ol>
-    <li> ∆... Building RESTful APIs. </li>
-    <li> ∆... Integrating third-party services </li>
-    <li> ∆... Optimizing database performance  </li>
+    <li> ∆.. Building RESTful APIs. </li>
+    <li> ∆.. Integrating third-party services </li>
+    <li> ∆.. Optimizing database performance  </li>
   </ol>
 </h3>
 
