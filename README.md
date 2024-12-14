@@ -1,6 +1,6 @@
 # Profile
 
-## Hi, I'm **Manish Kumar** 👋
+## Hi, I'm **Manish Kumar** 
 
 ### A passionate **Software Developer** with expertise in building efficient server-side applications using **Node.js** and related technologies. 
 
