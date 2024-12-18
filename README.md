@@ -4,7 +4,7 @@
 
 ### A passionate **Software Developer** with expertise in building efficient server-side applications using **Node.js** and related technologies. 
 
-I specialize in:...
+I specialize in:
 
 - Implementing **Google OAuth 2.0** for user authentication using **Passport.js**.
 - Utilizing **JWTs** for secure API authorization.
